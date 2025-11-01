@@ -1,4 +1,5 @@
 💧 Dashboards Analíticos – Gestão Hídrica e Avaliação de Performance
+
 📖 Visão Geral
 
 Este repositório reúne os Dashboards Analíticos desenvolvidos no Power BI, voltados para a visualização, monitoramento e análise de dados relacionados à Gestão Operacional de Tratamento de Água e à Avaliação de Performance e Qualidade.
@@ -27,4 +28,5 @@ Após a instalação, basta abrir o arquivo .pbix contido neste repositório.
 👤 Autor
 
 Guilherme Trindade
+
 📅 2025
